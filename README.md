@@ -6,8 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://imgur.com/a/gasdZWN" alt="project-screenshot" width="1280" height="125/">
-
+<img src="https://i.imgur.com/hq65qK4.jpeg" alt="project-screenshot" width="1280" height="125/">
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Create a Virtual Environment</p>
