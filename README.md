@@ -26,3 +26,8 @@ source venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
+<p>4. Run the VirtualPainter.py file</p>
+
+```
+python VirtualPainter.py
+```
